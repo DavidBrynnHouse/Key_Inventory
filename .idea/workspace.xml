@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Teyv4nRqmNM4BszqqFZHa0RmY8" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -39,11 +42,11 @@
         <env name="TERM" value="xterm-color" />
       </envs>
       <option name="SDK_HOME" value="/usr/bin/python3.6" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Key_Inventory_Python_Files" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Key_Inventory_Python_Files/Key_Inventory_REV3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Key_Inventory_REV3.py" />
       <option name="PARAMETERS" value="key_master_112519.csv Key_Inventory.csv" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,10 +82,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="203" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575386052525">
+    <state x="549" y="203" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576167320164">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state x="549" y="203" key="#com.intellij.execution.impl.EditConfigurationsDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1575386052525" />
+    <state x="549" y="203" key="#com.intellij.execution.impl.EditConfigurationsDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1576167320164" />
     <state x="680" y="267" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575380750328">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
