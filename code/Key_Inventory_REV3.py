@@ -378,8 +378,8 @@ def search_by_box_number():
 def audit_keys():
     run = False
     update_stock = True if input("Do you want to take stock? [y/N] ").lower() == 'y' else False
-    with open('Key_Inventory.csv', 'w') as csv_file:
-        with open('Low_Keys.csv', 'w') as csv_file_low:
+    with open('../Key_Inventory.csv', 'w') as csv_file:
+        with open('../Low_Keys.csv', 'w') as csv_file_low:
             low_key_file_writer = csv.writer(csv_file_low, delimiter=',')
             file_writer = csv.writer(csv_file, delimiter=',')
             file_writer.writerow(['Key #', 'Core #', 'Room #', 'Box #', '# In Stock', '# Assigned', 'Total'])
